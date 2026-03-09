@@ -1,0 +1,40 @@
+# streamlit secrets
+.streamlit/secrets.toml
+
+# python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# ide
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# os
+.DS_Store
+Thumbs.db
+
+# log
+*.log
+logs/
+
+# tmp
+*.tmp
+temp/
+tmp/
+
+# dis/pac
+build/
+dist/
+*.egg-info/
